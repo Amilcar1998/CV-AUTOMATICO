@@ -28,8 +28,7 @@
             "ubicacion": "📍 La Libertad, El Salvador",
             "telefono": "📱 6974-6787",
             "email": "✉️ amilcar199819@gmail.com",
-            "linkedin": { "texto": "linkedin", "url": "https://www.linkedin.com/in/eliseo-amilcar-l%C3%B3pez-portillo-585630218/"
-            }
+            "linkedin": { "texto": "linkedin.com/in/eliseo-lopez", "url": "https://www.linkedin.com/in/eliseo-amilcar-l%C3%B3pez-portillo-585630218/" }
         }
     },
     "tecnologias": {
@@ -93,14 +92,14 @@
                 "titulo": "INGENIERÍA EN SISTEMAS Y COMPUTACIÓN (En curso)",
                 "subtitulo": "ING EN SISTEMAS",
                 "institucion": "Universidad Pedagógica de El Salvador",
-                "ubicacion_periodo": "San Salvador, SS | Inicio: 06/2025 - Finalización estimada: 2028",
+                "ubicacion_periodo": "San Salvador, SS | Inicio: 06/2024 - Finalización estimada: 2028",
                 "nota": null
             },
             {
                 "titulo": "TÉCNICO EN INGENIERÍA DE SISTEMAS INFORMÁTICOS",
-                "subtitulo": "TEC. INGENEIRIA DE SISTEMAS INFORMATICOS",
-                "institucion": "ITCA-FEPADE",
-                "ubicacion_periodo": "ITCA FEPADE - SANTA TECLA",
+                "subtitulo": "01/2018 - 01/2021",
+                "institucion": "ITCA-FEPADE, Santa Tecla",
+                "ubicacion_periodo": null,
                 "nota": null
             },
             {
@@ -120,7 +119,7 @@
                 "roles": [
                     {
                         "puesto": "QA TESTER GRUPO UNICOMER (Interno)",
-                        "periodo": "05/2025 - Actual (1 año y 1 mes)",
+                        "periodo": "05/2024 - Actual",
                         "descripcion": [
                             "Lideré la validación de más de 600 tickets en proyectos estratégicos, manteniendo una tasa de resolución superior al 98%.",
                             "Certifiqué la migración de más de 250 interfaces de crédito de IBM para operaciones en Latinoamérica y el Caribe.",
@@ -135,14 +134,14 @@
                     },
                     {
                         "puesto": "ANALISTA QA (Outsource para Grupo Unicomer)",
-                        "periodo": "12/2022 - 05/2025 (2 años y 5 meses)",
+                        "periodo": "12/2022 - 04/2024 (1 año y 5 meses)",
                         "descripcion": [
                             "Realicé análisis funcional y di soporte a despliegues para procesos críticos de mercancías, inventarios y crédito.",
                             "Coordiné el ciclo completo de QA con Jira y Zephyr Scale, sirviendo como puente entre las áreas técnicas y de negocio.",
                             "Validé migraciones de datos y flujos de información en entornos AS400.",
                             "Creé matrices de prueba, documenté integraciones y elaboré manuales técnicos para usuarios."
                         ],
-                       "tecnologias": "Python, Jira API, Zephyr Scale API, IBM AS400, DB2, Oracle, WMS, SQL, Automic, FileZilla, RPG, Debug RPG, Spring, EBS 11, WMS CATALYS, apigue"
+                       "tecnologias": "Jira, Zephyr Scale, IBM AS400, DB2, SQL"
                     }
                 ]
             },
