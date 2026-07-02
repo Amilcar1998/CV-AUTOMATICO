@@ -1,0 +1,232 @@
+{
+    "nombre_completo": "ELISEO AMILCAR LOPEZ\nPORTILLO",
+    "titulo_profesional": "Senior QA & Integration Specialist | IBM AS400 | DB2 | Oracle | Python",
+    "resumen_profesional": [
+        "Especialista en validación e integración de sistemas empresariales. Ayudo a las organizaciones a garantizar que sus plataformas corporativas, integraciones y procesos críticos funcionen correctamente antes de llegar a producción. Participación en la modernización y validación de más de 250 interfaces de crédito regionales, garantizando la continuidad operativa de procesos financieros críticos.",
+        "Ingeniero de Sistemas en formación con más de 4 años de experiencia trabajando con ecosistemas de gran escala (IBM AS400/iSeries, DB2, Oracle, APIs REST). Experiencia en la implementación de soluciones WMS e integración entre sistemas corporativos, respaldado por conocimientos en desarrollo backend (Python, Flask, PHP, JavaScript) y automatización de procesos.",
+        "Experiencia en metodologías ágiles Scrum, Jira, Zephyr Scale, Cypress y análisis funcional de procesos de negocio, actuando como puente entre áreas técnicas, operativas y funcionales.",
+        "Desarrollo de herramientas internas de automatización QA en Python, integrando Jira Cloud API, Zephyr Scale API y correo corporativo para automatizar la gestión de test cases, ciclos de ejecución, generación de evidencias y trazabilidad de defectos.",
+        "Experiencia en automatización de pruebas con Selenium, Python y Appium Server, y en la implementación de iniciativas de IA para ser utilizadas a nivel corporativo."
+    ],
+    "fortalezas": [
+        "IBM AS400 (iSeries), DB2 y Oracle.",
+        "Integración de aplicaciones y validación de interfaces.",
+        "Validación de sistemas empresariales (WMS, Créditos).",
+        "Automatización de procesos con Python.",
+        "APIs REST y procesamiento de datos.",
+        "Análisis funcional y técnico de procesos de negocio.",
+        "Monitoreo y validación de Jobs Scheduler.",
+        "Transformación tecnológica en proyectos regionales.",
+        "Gestión de pruebas con Jira y Zephyr Scale.",
+        "Desarrollo de herramientas CLI para automatización de ciclo QA.",
+        "Validación de feeds de datos y calidad de información (XML, CSV).",
+        "Validación de integraciones WMS end-to-end."
+    ],
+    "contacto": {
+        "titulo": "📞 CONTACTO",
+        "datos": {
+            "ubicacion": "📍 La Libertad, El Salvador",
+            "telefono": "📱 6974-6787",
+            "email": "✉️ amilcar199819@gmail.com",
+            "linkedin": { "texto": "linkedin", "url": "https://www.linkedin.com/in/eliseo-amilcar-l%C3%B3pez-portillo-585630218/"
+            }
+        }
+    },
+    "tecnologias": {
+        "titulo": "💻 TECNOLOGÍAS",
+        "lista": [
+            "AS400 (iSeries), DB2, Oracle",
+            "Python (Automatización, Backend), Flask",
+            "Selenium, Appium Server",
+            "Cypress, MochaReport",
+            "Java, PHP, JavaScript",
+            "SQL (DB2, Oracle)",
+            "Jira Cloud, Zephyr Scale (API + UI)",
+            "APIs REST",
+            "WMS",
+            "XML, CSV",
+            "Teslink",
+            "Git",
+            "IBM IIB / ACE",
+            "RPGLE",
+            "Lambda Test, LT Browser"
+        ]
+    },
+    "competencias": {
+        "titulo": "⚙️ COMPETENCIAS",
+        "lista": [
+            "QA y Pruebas Empresariales",
+            "Pruebas de API e Integración",
+            "Validación de Interfaces y Middleware",
+            "Procesos Batch y Tareas (Jobs)",
+            "Metodologías Ágiles (Scrum)",
+            "Análisis Funcional",
+            "Automatización de ciclo de vida QA",
+            "Implementación de iniciativas de IA",
+            "Calidad de datos y validación de imports/exports",
+            "Trazabilidad de defectos"
+        ]
+    },
+    "idiomas": {
+        "titulo": "🌐 IDIOMAS",
+        "datos": [
+            {"idioma": "Español", "nivel": "Nativo"},
+            {"idioma": "Inglés", "nivel": "Básico (A2)"}
+        ]
+    },
+    "otros_estudios": {
+        "titulo": "📜 OTROS ESTUDIOS",
+        "lista": [
+            "Fundamentos de TI: Hardware y Software de PC, ITCA-FEPADE Santa Tecla, 2019",
+            "CCNA 1: Introducción a Redes, ITCA-FEPADE Santa Tecla, 2019",
+            "Máster en Automatización de Pruebas QA con Cypress",
+            "Automatización de Pruebas de Extremo a Extremo (E2E) con Cypress",
+            "Desarrollo Web con React (desde cero)",
+            "Curso de programación en Python (más de 86 horas)",
+            "Curso avanzado de programación RPGLE (desde cero)"
+        ]
+    },
+    "formacion": {
+        "titulo": "🎓 FORMACIÓN",
+        "datos": [
+            {
+                "titulo": "INGENIERÍA EN SISTEMAS Y COMPUTACIÓN (En curso)",
+                "subtitulo": "ING EN SISTEMAS",
+                "institucion": "Universidad Pedagógica de El Salvador",
+                "ubicacion_periodo": "San Salvador, SS | Inicio: 06/2025 - Finalización estimada: 2028",
+                "nota": null
+            },
+            {
+                "titulo": "TÉCNICO EN INGENIERÍA DE SISTEMAS INFORMÁTICOS",
+                "subtitulo": "TEC. INGENEIRIA DE SISTEMAS INFORMATICOS",
+                "institucion": "ITCA-FEPADE",
+                "ubicacion_periodo": "ITCA FEPADE - SANTA TECLA",
+                "nota": null
+            },
+            {
+                "titulo": "Bachillerato",
+                "subtitulo": "CONTADOR  |  01/2013 - 01/2016",
+                "institucion": "COMPLEJO EDUCATIVO JOSE SIMEON CAÑAS",
+                "ubicacion_periodo": null,
+                "nota": null
+            }
+        ]
+    },
+    "experiencia": {
+        "titulo": "💼 EXPERIENCIA",
+        "datos": [
+            {
+                "empresa": "Grupo Unicomer",
+                "roles": [
+                    {
+                        "puesto": "QA TESTER GRUPO UNICOMER (Interno)",
+                        "periodo": "05/2025 - Actual (1 año y 1 mes)",
+                        "descripcion": [
+                            "Lideré la validación de más de 600 tickets en proyectos estratégicos, manteniendo una tasa de resolución superior al 98%.",
+                            "Certifiqué la migración de más de 250 interfaces de crédito de IBM para operaciones en Latinoamérica y el Caribe.",
+                            "Realicé la validación masiva de integraciones WMS, incluyendo posteo de transferencias, inventario y conciliación de datos.",
+                            "Colaboré en la estabilización de procesos de mercancías y logística, dando soporte en la corrección de errores y seguimiento del backlog de los aplicativos.",
+                            "Desarrollo de una herramienta CLI en Python que integra Jira Cloud API, Zephyr Scale API y correo corporativo para automatizar creación de test cases, ciclos de ejecución, generación de evidencias y linkeo de defectos.",
+                            "Analicé datos y validé procesos críticos en plataformas AS400 usando consultas avanzadas en DB2 y Oracle.",
+                            "Propuse e implementé mejoras en los procesos de prueba para aumentar la eficiencia y la cobertura de calidad.",
+                            "Monitoreé Jobs Scheduler y procesos batch para asegurar la continuidad de las operaciones."
+                        ],
+                        "tecnologias": "Python, Jira API, Zephyr Scale API, IBM AS400, DB2, Oracle, WMS, SQL, Automic, FileZilla, RPG, Debug RPG, Spring, EBS 11, WMS CATALYS, apigue"
+                    },
+                    {
+                        "puesto": "ANALISTA QA (Outsource para Grupo Unicomer)",
+                        "periodo": "12/2022 - 05/2025 (2 años y 5 meses)",
+                        "descripcion": [
+                            "Realicé análisis funcional y di soporte a despliegues para procesos críticos de mercancías, inventarios y crédito.",
+                            "Coordiné el ciclo completo de QA con Jira y Zephyr Scale, sirviendo como puente entre las áreas técnicas y de negocio.",
+                            "Validé migraciones de datos y flujos de información en entornos AS400.",
+                            "Creé matrices de prueba, documenté integraciones y elaboré manuales técnicos para usuarios."
+                        ],
+                       "tecnologias": "Python, Jira API, Zephyr Scale API, IBM AS400, DB2, Oracle, WMS, SQL, Automic, FileZilla, RPG, Debug RPG, Spring, EBS 11, WMS CATALYS, apigue"
+                    }
+                ]
+            },
+            {
+                "empresa": "Visible Outsource (Proyecto Siman)",
+                "roles": [
+                    {
+                        "puesto": "ANALISTA QA ",
+                        "periodo": "04/2022 - 11 /2022 ( 7 meses)",
+                        "descripcion": [
+                            "Aseguré la calidad de aplicaciones web corporativas a través de pruebas exploratorias y automatizadas.",
+                            "Realicé pruebas de compatibilidad y diseño responsivo en dispositivos móviles usando Lambda Test y LT Browser.",
+                            "Gestioné el ciclo de vida de los defectos y creé matrices de trazabilidad en Jira.",
+                            "Colaboré activamente en equipos Scrum para garantizar entregas continuas y alineadas a los objetivos del negocio."
+                        ],
+                        "tecnologias": "Jira, Lambda Test, LT Browser, Pruebas exploratorias, Scrum"
+                    }
+                ]
+            },
+            {
+                "empresa": "Waresoft.SA de CV",
+                "roles": [
+                    {
+                        "puesto": "Ingeniero de Automatización QA",
+                        "periodo": "10/2021 - 04/2022 (7 meses)",
+                        "descripcion": [
+                            "Aseguré la calidad de aplicaciones empresariales a medida, diseñando y ejecutando flujos de prueba automatizados.",
+                            "Automaticé escenarios de prueba con Cypress y MochaReport para lograr despliegues más rápidos y confiables."
+                        ],
+                        "tecnologias": "Cypress, JavaScript, MochaReport, Automatización E2E"
+                    }
+                ]
+            }
+        ]
+    },
+    "proyectos_destacados": {
+        "titulo": "🚀 PROYECTOS DESTACADOS",
+        "datos": [
+            {
+                "nombre": "Modernización de Interfaces de Crédito Regional",
+                "descripcion": "Validación y certificación de más de 250 interfaces de crédito migradas de IBM IIB a ACE para operaciones en múltiples países de Latinoamérica y Caribe. Pruebas end-to-end de broker, validación de mensajes y flujos de integración.",
+                "tecnologias": "IBM, Jira, Zephyr Scale, DB2, APIs REST"
+            },
+            {
+                "nombre": "Certificación de Integraciones WMS",
+                "descripcion": "Validación masiva de integraciones entre WMS y sistemas corporativos: posteo de transferencias, inventario y conciliación de datos, asegurando la correcta operación logística.",
+                "tecnologias": "WMS, DB2, Oracle, Jira, SQL"
+            },
+            {
+                "nombre": "Herramienta CLI de Automatización QA",
+                "descripcion": "Herramienta de línea de comandos desarrollada en Python que integra Jira Cloud API, Zephyr Scale API y correo corporativo para automatizar el ciclo completo de QA: creación de test cases, ciclos de ejecución, generación de evidencias y trazabilidad de defectos.",
+                "tecnologias": "Python, Jira Cloud API, Zephyr Scale API, generación de documentos Word/Excel"
+            },
+            {
+                "nombre": "Estabilización de Procesos de Mercancías y Logística",
+                "descripcion": "Estabilización de flujos críticos: asignación de producto a tienda, generación automatizada de archivos de precios, corrección de exportaciones XML para sistemas downstream y validación de imports de items.",
+                "tecnologias": "AS400, DB2, XML, Python"
+            }
+        ]
+    },
+    "referencias_laborales": {
+        "titulo": "🏢 REFERENCIAS LABORALES",
+        "datos": [
+            {
+                "nombre": "ING. Maron Beltrán",
+                "puesto": "Desarrollador",
+                "empresa": "Marenco S.A de C.V",
+                "telefono": "7841-0264",
+                "correo": null
+            },
+            {
+                "nombre": "ING. Christian Josue Landaverde",
+                "puesto": "Analista QA",
+                "empresa": "Optima consultores",
+                "telefono": "7138-021",
+                "correo": null
+            }
+        ]
+    },
+    "referencias_personales": {
+        "titulo": "👥 REFERENCIAS PERSONALES",
+        "datos": [
+            {"nombre": "ING. Guillermo Adalberto Jandres", "puesto": "Jefe de IT, Ministerio de Cultura", "telefono": "7043-1575", "correo": null},
+            {"nombre": "ING. Mario José Mejia Alvarenga", "puesto": "Analista QA, Banco Promerica", "telefono": "7848-8999", "correo": null}
+        ]
+    }
+}
